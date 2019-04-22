@@ -1,0 +1,12 @@
+{
+  "ServerName": "ІА-71",
+  "bannedUsers": [
+    {
+      "name": "testeronni",
+      "id": 542421999096561736,
+      "avatarUrl": "https://cdn.discordapp.com/avatars/542421999096561736/c32a28d92d00df58825015d14bf7fd0f.png?size=128",
+      "isBanned": false,
+      "date": "2019-02-07T03:54:12.9889567+02:00"
+    }
+  ]
+}
